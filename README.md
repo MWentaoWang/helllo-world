@@ -1,2 +1,2 @@
 # helllo-world
-Just have a test for study Github
+Just have a test for study GitHub
